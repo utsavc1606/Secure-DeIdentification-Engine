@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="/home/cloudera/Desktop/hadoop_library_jars/hadoop-common-2.2.0.jar"/>
+	<classpathentry kind="lib" path="/home/cloudera/Downloads/log4j-1.2.16.jar"/>
+	<classpathentry kind="lib" path="/home/cloudera/Downloads/antlr-runtime-3.0.1.jar"/>
+	<classpathentry kind="lib" path="/home/cloudera/Downloads/commons-configuration-1.6.jar"/>
+	<classpathentry kind="lib" path="/home/cloudera/Downloads/commons-logging-1.0.4.jar"/>
+	<classpathentry kind="lib" path="/home/cloudera/Downloads/hadoop-core-1.1.0.jar"/>
+	<classpathentry kind="lib" path="/home/cloudera/Downloads/hive-exec-1.1.0.jar"/>
+	<classpathentry kind="lib" path="/home/cloudera/Downloads/hive-jdbc-1.1.0.jar"/>
+	<classpathentry kind="lib" path="/home/cloudera/Downloads/hive-metastore-1.1.0.jar"/>
+	<classpathentry kind="lib" path="/home/cloudera/Downloads/hive-service-1.1.0.jar"/>
+	<classpathentry kind="lib" path="/home/cloudera/Downloads/httpclient-4.2.3.jar"/>
+	<classpathentry kind="lib" path="/home/cloudera/Downloads/httpclient-cache-4.1.3.jar"/>
+	<classpathentry kind="lib" path="/home/cloudera/Downloads/httpcore-4.1.4.jar"/>
+	<classpathentry kind="lib" path="/home/cloudera/Downloads/httpmime-4.1.3.jar"/>
+	<classpathentry kind="lib" path="/home/cloudera/Downloads/libfb303-0.9.0.jar"/>
+	<classpathentry kind="lib" path="/home/cloudera/Downloads/libthrift-0.9.0.jar"/>
+	<classpathentry kind="lib" path="/home/cloudera/Downloads/slf4j-api-1.6.1.jar"/>
+	<classpathentry kind="lib" path="/home/cloudera/Downloads/slf4j-log4j12-1.6.1.jar"/>
+	<classpathentry kind="lib" path="/home/cloudera/Downloads/common-lang3.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

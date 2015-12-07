@@ -1,0 +1,13 @@
+<Indexes>
+        <Index id="Index_1">
+		<Item id="Fname" name="Firstname" noofChars="5"/>
+		<Item id="Lname" name="Lastname" noofChars="6"/>
+		<Item id="ssn" name="SSN" noofChars="All"/>
+	</Index>
+
+	<Index id="Index_2">
+	        <Item id="Lname" name="Lastname" noofChars="All"/>
+		<Item id="ssn" name="SSN" noofChars="5"/>
+                <Item id="dob" name="DOB" noofChars="All"/>
+	</Index>
+</Indexes>
